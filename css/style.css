@@ -1,0 +1,54 @@
+.hero{
+    background-color: #FFFADC;
+}
+.resume{
+    background-color: #C5C1AB;
+}
+.project{
+    background-color: #C5C1AB;
+}
+.aboutme{
+    background-color: #C5C1AB;
+}
+.profile-icon{
+    border-radius: 30%;
+}
+.image-of-cloud{
+    margin-top: 20px;
+    
+}
+.image-of-plane{
+    margin-top: 40px;
+}
+.images{
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    justify-content:space-between;
+}
+h1{
+    margin-top: 50px;
+}
+h1,h2,h3,h3,h5,p{
+    font-family:Tangerine;
+}
+.fp{
+    font-family:Tangerine;
+    color: #34332D;
+}
+.sp{
+    color:#8B00EA;
+    font-family:Tangerine;
+}
+
+p{
+    font-size: 4vh;
+}
+.border-bottom {
+    border-bottom: var(--bs-border-width) var(--bs-border-style) var(--bs-border-color) !important;
+}
+:root {
+  --bs-border-width: 2px;       /* Border width */
+  --bs-border-style: solid;     /* Border style (solid, dashed, etc.) */
+  --bs-border-color: black;     /* Set border color to black */
+}
